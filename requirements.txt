@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+anthropic
+python-dotenv
+pytest
